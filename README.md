@@ -1,7 +1,6 @@
-##BEFORE YOU BEGIN: I decided to Import my work from BitBucket over to GitHub. I prefer Github. Its my Mothership.
+# BEFORE YOU BEGIN: I decided to Import my work from BitBucket over to GitHub. I prefer Github. Its my Mothership.
 I used bits and pieces from this tutorial as a rough guide to work through and understand the processes better. Indeed, it involved replacing Bitbucket's methods with Github's methods. Though, from there, you can create your own repository to be whatever you want it to be. I went with a simple webpage, but had lots of fun in the process.
-
-##Happy Exploring, Creators!•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚
+## Happy Exploring, Creators!•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚---Get Started Here---With a README.md File---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----- ---- ----- ----- ----- ----- ----
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
@@ -37,7 +36,6 @@ Next, you’ll add a new file to this repository.
 Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
 
 ---
-
 ## Clone a repository
 
 Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
