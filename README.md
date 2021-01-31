@@ -1,3 +1,8 @@
+##BEFORE YOU BEGIN: I decided to Import my work from BitBucket over to GitHub. I prefer Github. Its my Mothership.
+I used bits and pieces from this tutorial as a rough guide to work through and understand the processes better. Indeed, it involved replacing Bitbucket's methods with Github's methods. Though, from there, you can create your own repository to be whatever you want it to be. I went with a simple webpage, but had lots of fun in the process.
+
+##Happy Exploring, Creators!•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚•º¨˙º¨˙º¨˙∆˚˙∆˚
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.

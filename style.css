@@ -1,11 +1,14 @@
 html {
-  background-color: rgb(108, 112, 153);
-  font-size: 20px;
-  
-ul {
-  background: rgb(198, 243, 231);
+  background-color: rgb(130, 135, 192);
+  font-size: 20px; 
+}
+  /*Leaving the CSS here incase anyone wants to have fun with the colours  and create customisations for their own workspacegit add or.*/ 
+ul 
+  {background-color: rgb(198, 243, 231);
   padding: 10px;
-  border: 1px solid rgb(3, 238, 255);
+}
+  {
+  border-color: 1px solid rgb(3, 238, 255);
 }
 
 li {

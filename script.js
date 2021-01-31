@@ -4,9 +4,12 @@ const html = document.querySelector('html');
 
 info.textContent = 'Below is a dynamic list. Click anywhere outside the list to add a new list item. Click an existing list item to change its text to something else.';
 
+
+
 document.body.appendChild('spaceLocations');
 document.body.appendChild(earthMoon);
 
+/* Start getting creative :) */
 html.onclick = function() {
   const listItem = document.createElement('li');
   const listContent = prompt('Space Locations');
